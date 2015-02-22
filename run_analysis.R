@@ -3,8 +3,8 @@
 ## Student: Brenda Cooney
 
 ## Below is commented out code that downloads the required data files
-## and unzips them. Uncomment (remove '##') if Samsung data is not in 
-## your current working directory!
+## and unzips them. Uncomment (remove '##') if Samsung data is not dowloaded 
+## to your current working directory!
 
 ## if(!require("data.table")) {
 ##        package.install("data.table")
