@@ -24,51 +24,51 @@ A tidy set was created that consisted of variables listed below.
 
 **Variables**
 ----------------------------------------------------------------------
-- *Variable Name*:  ParticipantId
+**Variable Name**:  ParticipantId
 - *Description*:    Identification for each participant in the study (no names provided)
 - *Type*:           Numeric
-- *VALUE*:
-                1 - Participant 1
-                2 - Participant 2
-                3 - Participant 3
-                4 - Participant 4
-                5 - Participant 5
-                6 - Participant 6
-                7 - Participant 7
-                8 - Participant 8
-                9 - Participant 9
-                10 - Participant 10
-                11 - Participant 11
-                12 - Participant 12
-                13 - Participant 13
-                14 - Participant 14
-                15 - Participant 15
-                16 - Participant 16
-                17 - Participant 17
-                18 - Participant 18
-                19 - Participant 19
-                20 - Participant 20
-                21 - Participant 21
-                22 - Participant 22
-                23 - Participant 23
-                24 - Participant 24
-                25 - Participant 25
-                26 - Participant 26
-                27 - Participant 27
-                28 - Participant 28
-                29 - Participant 29
-                30 - Participant 30
+- *VALUE*:<br>
+                1 - Participant 1<br>
+                2 - Participant 2<br>
+                3 - Participant 3<br>
+                4 - Participant 4<br>
+                5 - Participant 5<br>
+                6 - Participant 6<br>
+                7 - Participant 7<br>
+                8 - Participant 8<br>
+                9 - Participant 9<br>
+                10 - Participant 10<br>
+                11 - Participant 11<br>
+                12 - Participant 12<br>
+                13 - Participant 13<br>
+                14 - Participant 14<br>
+                15 - Participant 15<br>
+                16 - Participant 16<br>
+                17 - Participant 17<br>
+                18 - Participant 18<br>
+                19 - Participant 19<br>
+                20 - Participant 20<br>
+                21 - Participant 21<br>
+                22 - Participant 22<br>
+                23 - Participant 23<br>
+                24 - Participant 24<br>
+                25 - Participant 25<br>
+                26 - Participant 26<br>
+                27 - Participant 27<br>
+                28 - Participant 28<br>
+                29 - Participant 29<br>
+                30 - Participant 30<br>
                 
 - *Variable Name*: Activity
 - *Description*:   The action performed by the participants
 - *Type*:          Factor
-- *VALUE And LABEL*:
-                1 - WALKING
-                2 - WALKING_UPSTAIRS
-                3 - WALKING_DOWNSTAIRS
-                4 - SITTING
-                5 - STANDING
-                6 - LAYING
+- *VALUE And LABEL*:<br>
+                1 - WALKING<br>
+                2 - WALKING_UPSTAIRS<br>
+                3 - WALKING_DOWNSTAIRS<br>
+                4 - SITTING<br>
+                5 - STANDING<br>
+                6 - LAYING<br>
 
 - *Remaining Variables*: Below is a list of the remaining variables
 - *Description*: 
