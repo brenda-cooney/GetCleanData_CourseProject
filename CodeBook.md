@@ -59,7 +59,7 @@ A tidy set was created that consisted of variables listed below.
                 29 - Participant 29<br>
                 30 - Participant 30<br>
                 
-- *Variable Name*: Activity
+**Variable Name**: Activity
 - *Description*:   The action performed by the participants
 - *Type*:          Factor
 - *VALUE And LABEL*:<br>
@@ -70,7 +70,7 @@ A tidy set was created that consisted of variables listed below.
                 5 - STANDING<br>
                 6 - LAYING<br>
 
-- *Remaining Variables*: Below is a list of the remaining variables
+**Remaining Variables**: Below is a list of the remaining variables
 - *Description*: 
         - 'XYZ' is used to denote 3-axial signals in the X, Y and Z directions
         - mean(): Mean value
