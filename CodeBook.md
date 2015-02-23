@@ -72,6 +72,7 @@ A tidy set was created that consisted of variables listed below.
 
 **Remaining Variables**: Below is a list of the remaining variables
 - *Description*: 
+        - variables come from the accelerometer and gyroscope 3-axial raw signals
         - 'XYZ' is used to denote 3-axial signals in the X, Y and Z directions
         - mean(): Mean value
         - std(): Standard deviation
@@ -147,12 +148,12 @@ A tidy set was created that consisted of variables listed below.
 "frequencyBodyAccelerometerMagnitude-mean()"            
 "frequencyBodyAccelerometerMagnitude-std()"             
 "frequencyBodyAccelerometerMagnitude-meanFreq()"        
-"frequencyBodyBodyAccelerometerJerkMagnitude-mean()"    
-"frequencyBodyBodyAccelerometerJerkMagnitude-std()"     
-"frequencyBodyBodyAccelerometerJerkMagnitude-meanFreq()"
-"frequencyBodyBodyGyroscopeMagnitude-mean()"            
-"frequencyBodyBodyGyroscopeMagnitude-std()"             
-"frequencyBodyBodyGyroscopeMagnitude-meanFreq()"        
-"frequencyBodyBodyGyroscopeJerkMagnitude-mean()"        
-"frequencyBodyBodyGyroscopeJerkMagnitude-std()"         
-"frequencyBodyBodyGyroscopeJerkMagnitude-meanFreq()"
+"frequencyBodyAccelerometerJerkMagnitude-mean()"    
+"frequencyBodyAccelerometerJerkMagnitude-std()"     
+"frequencyBodyAccelerometerJerkMagnitude-meanFreq()"
+"frequencyBodyGyroscopeMagnitude-mean()"            
+"frequencyBodyGyroscopeMagnitude-std()"             
+"frequencyBodyGyroscopeMagnitude-meanFreq()"        
+"frequencyBodyGyroscopeJerkMagnitude-mean()"        
+"frequencyBodyGyroscopeJerkMagnitude-std()"         
+"frequencyBodyGyroscopeJerkMagnitude-meanFreq()"
