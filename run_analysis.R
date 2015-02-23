@@ -72,6 +72,7 @@ mean_std_data[["Activity"]] <- factor(mean_std_data[["Activity"]], labels=c("Wal
 ## 'Gyro' is replaced by Gyroscope
 ## prefix 'f' is replaced by frequency
 ## 'Mag' is replaced by Magnitude
+## 'BodyBody' is replaced by Body
 
 ## Letter(s) in colnames are replaces with more meaningful names
 colnames(mean_std_data) <- gsub(pattern="^t", replacement="time", names(mean_std_data))
@@ -79,6 +80,7 @@ colnames(mean_std_data) <- gsub(pattern="^f", replacement="frequency", names(mea
 colnames(mean_std_data) <- gsub(pattern="Acc", replacement="Accelerometer", names(mean_std_data))
 colnames(mean_std_data) <- gsub(pattern="Gyro", replacement="Gyroscope", names(mean_std_data))
 colnames(mean_std_data) <- gsub(pattern="Mag", replacement="Magnitude", names(mean_std_data))
+colnames(mean_std_data) <- gsub(pattern="BodyBody", replacement="Body", names(mean_std_data))
 
 ## STEP 5: From the data set in step 4, create a second, independent tidy data set 
 ## Create the tidy data set
